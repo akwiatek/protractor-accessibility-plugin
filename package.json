@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/angular/protractor-accessibility-plugin",
   "dependencies": {
+    "webdriver-manager": "12.1.8",
     "accessibility-developer-tools": "^2.9.0-rc.0",
     "axe-core": "^2.0.5",
     "axe-webdriverjs": "^0.2.0",
@@ -38,6 +39,6 @@
   },
   "devDependencies": {
     "httpster": "^1.0.1",
-    "protractor": "^4.0.10"
+    "protractor": "7.0.0"
   }
 }
